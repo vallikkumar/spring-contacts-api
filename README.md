@@ -4,7 +4,7 @@ Getting Started
 
 To install this contacts application, run the following commands:
 
-1) git clone https://github.com/vallikkumar/centura-spring-react
+1) git clone https://github.com/vallikkumar/spring-contacts-api
 
 2) cd spring-react
 
